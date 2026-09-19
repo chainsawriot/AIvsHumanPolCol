@@ -141,9 +141,7 @@ Running the full classification for the complete datasets is **not recommended o
 
 ---
 
-## 6. Docker Environment (Reviewer’s Setup)
-
-The reviewer provided a Docker environment for full reproducibility:
+## 6. Docker Environment
 
 ```bash
 docker compose build
